@@ -1,0 +1,25 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .icon-text {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .icon-text i {
+      color: #2c3e50;
+      margin-right: 10px;
+    }
+    #mn {
+        height: 5px; background-color: black; border: none;
+    }
+    
+    .hd2 {
+        color: darkmagenta;
+    }
+    h1 {
+      color: darkolivegreen;
+    }
+
